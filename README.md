@@ -1,4 +1,5 @@
-本项目是基于ijkplayer项目k0.8.8的tag修改而来，整个项目的源码的修改请参考：https://github.com/Lon-Bon/ijkplayer，这个项目是给jitpack看的，依赖于前面生成的so库问题，这里是生成jitpack远程依赖，整个项目只有安卓的部分。
+本项目是基于ijkplayer项目k0.8.8的tag修改而来，整个项目的源码的修改请参考：https://github.com/Lon-Bon/ijkplayer
+这个项目是给jitpack看的，依赖于前面生成的so库问题，这里是生成jitpack远程依赖，整个项目只有安卓的部分。
 
 ### 如何使用
 
