@@ -27,17 +27,17 @@ allprojects {
 
 ```groovy
 	# required, enough for most devices.
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-java:0.8.8'
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-armv7a:0.8.8'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-java:0.8.8_20230419_1'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-armv7a:0.8.8_20230419_1'
 
     # Other ABIs: optional
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-armv5:0.8.8'
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-arm64:0.8.8'
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-x86:0.8.8'
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-x86_64:0.8.8'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-armv5:0.8.8_20230419_1'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-arm64:0.8.8_20230419_1'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-x86:0.8.8_20230419_1'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-x86_64:0.8.8_20230419_1'
 
     # ExoPlayer as IMediaPlayer: optional, experimental
-    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-exo:0.8.8'
+    implementation 'com.github.Lon-Bon.ijkplayer-android:ijkplayer-exo:0.8.8_20230419_1'
 
 //上面需要哪个版本选择依赖哪个
 ```
